@@ -1,0 +1,9 @@
+.weather {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    margin-bottom: auto;
+    text-align: center;
+    width: 660px;
+    background-color: cyan;
+}
